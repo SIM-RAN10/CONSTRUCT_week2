@@ -10,6 +10,7 @@
 <li>Java: Programming language used for writing the automation scripts.</li>
 <li>PageFactory: Facilitates initialization of web elements in POM.</li>
 <li>TestNG: Framework for managing and executing test cases.</li>
+
 ## Version Control and Testing Tools used:
 ### **Git**
 ### **GitHub**
@@ -21,6 +22,7 @@
 ### **Chrome**
 ## Application Under Test
 AUT URL:  https://www.naaptol.com/ 
+
 ##  Installation & Getting Started
 ### Follow these steps to set up and run the project
 ### Prerequisites
