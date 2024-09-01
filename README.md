@@ -4,4 +4,24 @@
 ## Project Type 
 ### Frontend
 ## Tech Stack used in this project
-<li>**Selenium WebDriver:** Tool for browser automation and interaction.</li>
+<li>Selenium WebDriver: Tool for browser automation and interaction.</li>
+<li>Extent Reports: Provides detailed and interactive test execution reports.</li>
+<li>Maven: Manages project dependencies and build automation.</li>
+<li>Java: Programming language used for writing the automation scripts.</li>
+<li>PageFactory: Facilitates initialization of web elements in POM.</li>
+<li>TestNG: Framework for managing and executing test cases.</li>
+## Version Control and Testing Tools used:
+### **Git**
+### **GitHub**
+### **Selenium**
+### **Spring Tool Suite**
+## Operating System and browsers used:
+### **Windows**
+### **Edge**
+### **Chrome**
+## Application Under Test
+AUT URL:  https://www.naaptol.com/ 
+##  Installation & Getting Started
+### Follow these steps to set up and run the project
+### Prerequisites
+### 1. Ensure Maven is installed: If Maven is not installed, download and install it from Maven Official Site.
