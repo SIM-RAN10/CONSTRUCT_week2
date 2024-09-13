@@ -1,4 +1,5 @@
-![Alt Text](https://images.moneycontrol.com/static-mcnews/2018/06/naaptol-770x433.png?impolicy=website&width=770&height=431)
+![image](https://github.com/user-attachments/assets/7d71744f-2477-489c-a391-fd4e461d8bdd)
+)
 # Page Object Model Selenium Java Project
 ## Introduction
 #### This project is a robust automation framework designed for testing the Naaptol e-commerce platform. Using Selenium WebDriver and Java, it implements the Page Object Model (POM) design pattern to ensure maintainable and scalable test automation. The framework features detailed reporting via Extent Reports and is managed using Maven for build automation. It provides comprehensive testing capabilities for the Naaptol website's Shopping Categories, specially focusing on the Tablets & Computers Category.
