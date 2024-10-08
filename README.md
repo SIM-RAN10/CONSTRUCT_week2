@@ -69,15 +69,16 @@ To execute specific tests or configure test execution:
 - **PageFactory**: Utilized within POM to initialize page elements efficiently.
 - **TestNG**: Implemented for its flexible test configuration and management features.
 
-## About Me
-### I'm passionate learner with an interest in Software Development Engineer in Test. Currently, I'm working on personal projects and building my skills in Cypress, Selenium, Java etc. I'm eager to grow and collaborate on new opportunities.
-
+## Attachments
 ![Projects Screenshot1](https://github.com/user-attachments/assets/c3d37588-8136-40e3-a922-71fe5fe1cc1a)
 ![Projects Screenshot2](https://github.com/user-attachments/assets/ad5b1753-2a20-4793-9705-693738155af2)
 ![Projects Screenshot3](https://github.com/user-attachments/assets/f4223047-71d4-453b-8c8a-d6126f75b059)
 ![Projects Screenshot4](https://github.com/user-attachments/assets/d8bd2195-d4a8-42cb-8ce7-790687a4595c)
 ![Projects Screenshot9](https://github.com/user-attachments/assets/b796f11f-434a-481e-b053-3961a0ff0026)
 ![Projects Screenshot13](https://github.com/user-attachments/assets/6abc2a51-6d85-4702-88e5-61853541bc52)
+
+## About Me
+### I'm passionate learner with an interest in Software Development Engineer in Test. Currently, I'm working on personal projects and building my skills in Cypress, Selenium, Java etc. I'm eager to grow and collaborate on new opportunities.
 
 ## Feedback
 ### If you have any feedback,please reach out to me at sharmilasaren10@gmail.com.
